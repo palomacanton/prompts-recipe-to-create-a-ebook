@@ -64,6 +64,8 @@ Ideogram：
 
 Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
 
+## 👩🏻‍💻 Desenvolvedora júnior
+
 <p>
     <img 
       align=left 
@@ -72,7 +74,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
       src="https://avatars.githubusercontent.com/u/88590512?s=96&v=4"
     />
     <p>&nbsp&nbsp&nbspPaloma Canton<br>
-    &nbsp&nbsp&nbsp
+    &nbsp&nbsp
     <a href="https://github.com/palomacanton">
     GitHub</a>&nbsp;|&nbsp;
     <a href="www.linkedin.com/in/palomacanton">LinkedIn</a>
