@@ -75,7 +75,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
     />
     <p>&nbsp&nbsp&nbspPaloma Canton<br>
     &nbsp&nbsp
-    <a href="https://github.com/palomacanton">
+    <a href="https://github.com/palomacanton" style="border-radius: 50%;">
     GitHub</a>&nbsp;|&nbsp;
     <a href="www.linkedin.com/in/palomacanton">LinkedIn</a>
 </p>
