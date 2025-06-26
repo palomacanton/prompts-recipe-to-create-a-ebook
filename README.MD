@@ -69,7 +69,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
       align=left 
       margin=10 
       width=80 
-      src="https://github.com/account"
+      src="https://avatars.githubusercontent.com/u/88590512?s=96&v=4"
     />
     <p>&nbsp&nbsp&nbspPaloma Canton<br>
     &nbsp&nbsp&nbsp
