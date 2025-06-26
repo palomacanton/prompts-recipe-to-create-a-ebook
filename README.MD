@@ -22,7 +22,7 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="https://github.com/palomacanton/prompts-recipe-to-create-a-ebook/blob/main/output/Ebook%20-%20Fit%2C%20Feliz%20E%20com%20Lasanha.prn" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/palomacanton/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20receitas%20fit.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
