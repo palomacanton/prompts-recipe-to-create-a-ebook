@@ -67,12 +67,11 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 ## 👩🏻‍💻 Desenvolvedora
 
 <p>
-    <img 
+ <img 
   src="https://avatars.githubusercontent.com/u/88590512?s=96&v=4"
   width="80"
-  style="border-radius: 50%; margin-right: 10px;"
   align="left"
-/>
+  />
     <p>&nbsp&nbsp&nbspPaloma Canton<br>
     &nbsp&nbsp
     <a href="https://github.com/palomacanton">
