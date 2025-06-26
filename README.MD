@@ -71,11 +71,12 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
       align=left 
       margin=10 
       width=80 
+      style="border-radius: 50%;"
       src="https://avatars.githubusercontent.com/u/88590512?s=96&v=4"
     />
     <p>&nbsp&nbsp&nbspPaloma Canton<br>
     &nbsp&nbsp
-    <a href="https://github.com/palomacanton" width="150" style="border-radius: 50%;">
+    <a href="https://github.com/palomacanton">
     GitHub</a>&nbsp;|&nbsp;
     <a href="www.linkedin.com/in/palomacanton">LinkedIn</a>
 </p>
